@@ -1,0 +1,14 @@
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.AssemblyInfo.cs
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.exe
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.deps.json
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.runtimeconfig.json
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.dll
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\bin\Debug\netcoreapp3.1\AcmeAccountingServices.pdb
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.dll
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.pdb
+C:\Users\sarah\source\repos\AcmeAccountingServices\AcmeAccountingServices\obj\Debug\netcoreapp3.1\AcmeAccountingServices.genruntimeconfig.cache
