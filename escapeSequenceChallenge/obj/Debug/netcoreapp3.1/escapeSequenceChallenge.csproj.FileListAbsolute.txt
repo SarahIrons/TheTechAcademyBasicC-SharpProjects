@@ -1,0 +1,14 @@
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.AssemblyInfo.cs
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.exe
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.deps.json
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.runtimeconfig.json
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.dll
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\bin\Debug\netcoreapp3.1\escapeSequenceChallenge.pdb
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.dll
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.pdb
+C:\Users\sarah\source\repos\escapeSequenceChallenge\escapeSequenceChallenge\obj\Debug\netcoreapp3.1\escapeSequenceChallenge.genruntimeconfig.cache
